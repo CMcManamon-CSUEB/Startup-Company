@@ -1,9 +1,4 @@
-# Startup-Company
-Fictional startup company for CS230
+# Planet Filter
+A fictional startup company for Professor L. Grewe's CS-230 class at CSU East Bay
 
-This repository will contain documentation for the basis of forming a startup tech company
-with a focus on upholding ethical standards. It will include the following points:
-* Business Plan
-* Cultural Policy
-* Ethics Policy
-* Experimentation & Priorities
+Take a look at our [Wiki](https://github.com/CMcManamon-CSUEB/Startup-Company/wiki) for our business plan, cultural policy, ethics policy, plans for prototyping and experimentation, and a video overview of our ideas.
